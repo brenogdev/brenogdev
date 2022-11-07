@@ -25,7 +25,7 @@ Moro em Contagem, Minas Gerais 🌎<br/>
 
 <br />
 
-![Breno github stats](https://github-readme-stats.vercel.app/api?username=brenodev92&show_icons=true&theme=dark)
+![Breno github stats](https://github-readme-stats.vercel.app/api?username=brenogdev&show_icons=true&theme=dark)
 
 <br />
 
